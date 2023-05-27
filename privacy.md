@@ -5,7 +5,7 @@ description: The privacy of your data — and it is your data, not ours! — is 
 
 # Privacy Policy
 
-_Last updated: October 5, 2022_
+_Last updated: May 27, 2023_
 
 The privacy of your data — and it is your data, not ours! — is a big deal to us. In this policy, we lay out: what data we collect and why; how your data is handled; and your rights to your data. We promise we never sell your data: never have, never will.
 
@@ -21,22 +21,11 @@ When you sign up for a Piepworks product, we typically ask for identifying infor
 
 ### Billing information
 
-When you pay for a Piepworks product, you work directly with our payment processing service, [Paddle](https://paddle.com). Your credit card number never goes through our servers. We store your unique Paddle ID and some subscription information in order to determine which plan you’re subscribed to and its status.
+When you pay for a Piepworks product, you work directly with our payment processing service, [Paddle](https://paddle.com). Your credit card number never goes through our servers.
 
 ### Website interactions
 
 When you browse our marketing sites or applications, your browser automatically shares certain information such as which operating system and browser version you are using. We track that information (except, in applications that require authentication, after you log in), along with the pages you are visiting and which website referred you for statistical purposes like conversion rates and to test new designs. We use [Plausible Analytics](https://plausible.io) for this tracking. One of the reasons we like to use them is because they’re privacy-focused and [don’t collect any of your personal data](https://plausible.io/privacy-focused-web-analytics#no-personal-data-is-collected).
-
-### Your Content in Cassette Nest
-
-#### Film Stocks and associated Films (formats)
-
-With a couple of minor exceptions, the data you add to Cassette Nest is only visible to you when you're logged in. Those exceptions are:
-
-1. New Film Stocks and Films.
-    - If you [add a custom film stock to the system](https://cassettenest.com/changelog/2020-10-17/) and it is made public for the benefit of all Cassette Nest users, the [film stock](https://cassettenest.com/docs/stocks) (and some information about its associated film formats) will be available to all other logged-in users to add to their collection of rolls as well as publicly on [the film stocks section of the application](https://app.cassettenest.com/stocks/). **No information associated with you will be displayed.**
-2. Anonymous counts of rolls of films.
-    - Any publicly-viewable film stock will show counts of how many rolls of said stock (and its associated film formats) are in the system. **No other information about your rolls of film will be made public**; only that anonymous count.
 
 ### Cookies and Do Not Track
 
@@ -68,7 +57,7 @@ Piepworks LLC is a US company and all data infrastructure are located in the US.
 
 * If US law enforcement authorities have the necessary warrant, criminal subpoena, or court order requiring we share data, we have to comply. Otherwise, we flat-out reject requests from local and federal law enforcement when they seek data. And unless we’re legally prevented from it, we’ll always inform you when such requests are made. In the event a government authority outside the US approaches Piepworks with a request, our default stance is to refuse unless the US government compels us to comply through procedures outlined in a mutual legal assistance treaty or agreement.
 * Similarly, if Piepworks receives a request to preserve data, we refuse unless compelled by either the US Federal Stored Communications Act, 18 U.S.C. Section 2703(f) or a properly served US subpoena for civil matters. In both of these situations, we have to comply. In these situations, we notify affected customers as soon as possible unless we are legally prohibited from doing so.
-* If we get an informal request from any person, organization, or entity, we do not assist. If you are an account owner who wants to export data from their accounts, you can do so directly from [your settings page](https://app.cassettenest.com/settings/#export).
+* If we get an informal request from any person, organization, or entity, we do not assist.
 * If we are audited by a tax authority, we may be required to share billing-related information. If that happens, we only share the bare minimum needed.
 
 Finally, if Piepworks LLC is acquired by or merged with another company — we don’t plan on that, but if it happens — we’ll notify you well before any info about you is transferred and becomes subject to a different privacy policy.
@@ -112,6 +101,6 @@ Our products and other web properties are operated in the United States. If you 
 
 ## Changes & questions
 
-We may update this policy as needed to comply with relevant regulations and reflect any new practices. You can view a history of the changes to our policies since October 2021 [on GitHub](https://github.com/piepworks/cassettenest-legal/commits/main). Whenever we make a significant change to our policies, we will also announce them on [our changelog](https://cassettenest.com/changelog/).
+We may update this policy as needed to comply with relevant regulations and reflect any new practices. You can view a history of the changes to our policies since May 2023 [on GitHub](https://github.com/piepworks/blazehorse-legal/commits/main).
 
 Have any questions, comments, or concerns about this privacy policy, your data, or your rights with respect to your information? Please get in touch by emailing us at [tech@piepworks.com](mailto:tech@piepworks.com) and we’ll be happy to answer them!

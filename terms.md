@@ -5,9 +5,9 @@ description: All the terms that you agree to when you sign up for a Piepworks pr
 
 # Terms of Service
 
-_Last updated: October 24, 2022_
+_Last updated: May 27, 2023_
 
-From everyone at [Piepworks](https://piep.works), thank you for using our products! We build them to help you get the most out of your film photography. Because we don’t know every one of our users personally, we have to put in place some Terms of Service to help keep the ship afloat.
+From everyone at [Piepworks](https://piep.works), thank you for using our products! Because we don’t know every one of our users personally, we have to put in place some Terms of Service to help keep the ship afloat.
 
 When we say “Company”, “we”, “our”, or “us” in this document, we are referring to Piepworks LLC.
 
@@ -15,11 +15,11 @@ When we say “Services”, we mean any product created and maintained by Piepwo
 
 When we say “You” or “your”, we are referring to the people or organizations that own an account with one or more of our Services.
 
-We may update these Terms of Service in the future. You can track all changes made since October 2021 [on GitHub](https://github.com/piepworks/cassettenest-legal/commits/main).  Whenever we make a significant change to our policies, we will also announce them on [our changelog](https://cassettenest.com/changelog/).
+We may update these Terms of Service in the future. You can track all changes made since May 2023 [on GitHub](https://github.com/piepworks/blazehorse-legal/commits/main).
 
 When you use our Services, now or in the future, you are agreeing to the latest Terms of Service. That’s true for any of our existing and future products and all features that we add to our Services over time. There may be times where we do not exercise or enforce any right or provision of the Terms of Service; in doing so, we are not waiving that right or provision. **These terms do contain a limitation of our liability.**
 
-If you violate any of the terms, we may terminate your account. That’s a broad statement and it means you need to place a lot of trust in us. We do our best to deserve that trust by being open about [who we are](https://piep.works), [how we work](https://treypiepmeier.com/words/tag:cassettenest), and keeping an open door to [your feedback][feedback].
+If you violate any of the terms, we may terminate your account. That’s a broad statement and it means you need to place a lot of trust in us. We do our best to deserve that trust by being open about [who we are](https://piep.works), how we work, and keeping an open door to your feedback.
 
 ## Account Terms
 
@@ -30,22 +30,16 @@ If you violate any of the terms, we may terminate your account. That’s a broad
 
 ## Payment
 
-1. Billing is managed through [Paddle](https://paddle.com) and all plan management can be done via [the Subscription section of your settings page](https://app.cassettenest.com/settings/#subscription).
-2. _**Currently, a paid plan is only a way of supporting ongoing development of Cassette Nest--there is no limitation of the functionality of the application.** In the future, we plan to offer a free trial period and then put your account in **read-only** if you don’t subscribe (or your subscription lapses or is canceled)._
+Billing is managed through [Paddle](https://paddle.com) and can be accessed via [the Piepworks Hub](https://hub.piep.works).
 
 ## Cancellation and Termination
 
-1. You are solely responsible for properly cancelling your subscription. You can cancel your subscription at any time via [the Subscription section of your settings page](https://app.cassettenest.com/settings/#subscription). If you need help cancelling your subscription, you can always [contact us][feedback]
-2. After cancellation, there is _currently no change in the functionality of the application_, but in the future, it will put your account into a **read-only** mode.
-3. After you’ve requested your subscription to be canceled, your subscription will still be fully active until your current billing period ends. If you’d like to cancel it immediately, [let us know][feedback], and we’ll manually cancel it immediately.
-4. Currently, there is no self-service way of entirely cancelling and deleting your account except by [contacting us][feedback]. We plan to offer that as a self-service option in the future.
-5. We have the right to suspend or terminate your account and refuse any and all current or future use of our Services for any reason at any time. Suspension means you will not be able to access the account or any content in the account. Termination will furthermore result in the deletion of your account or your access to your account, and the forfeiture and relinquishment of all content in your account. We also reserve the right to refuse the use of the Services to anyone for any reason at any time. We have this clause because eventually we’re going to find someone doing something nefarious. There are some things we staunchly stand against and this clause is how we exercise that stance. _We will not resort to this lightly. Just be cool, and we’ll be cool._ For more details, see our [Use Restrictions policy](abuse.md#use-restrictions).
-6. Verbal, physical, written or other abuse (including threats of abuse or retribution) of **anyone** will result in immediate account termination.
+1. We have the right to suspend or terminate your license and refuse any and all current or future use of our Services for any reason at any time. Suspension means you will not be able to access the account or any content in the account. Termination will furthermore result in the deletion of your account or your access to your account, and the forfeiture and relinquishment of all content in your account. We also reserve the right to refuse the use of the Services to anyone for any reason at any time. We have this clause because eventually we’re going to find someone doing something nefarious. There are some things we staunchly stand against and this clause is how we exercise that stance. _We will not resort to this lightly. Just be cool, and we’ll be cool._ For more details, see our [Use Restrictions policy](abuse.md#use-restrictions).
+2. Verbal, physical, written or other abuse (including threats of abuse or retribution) of **anyone** will result in immediate account termination.
 
-## Modifications to the Service and Prices
+## Modifications to the Service
 
-1. We have a goal of you being able to keep information you create our Service forever. [Your exports](https://app.cassettenest.com/settings/#export) are designed for portability and longevity. We will strive to keep this Service running for the foreseeable future. However, sometimes it becomes technically impossible to continue a feature or we redesign a part of our Services because we think it could be better or we decide to close new signups of a product. We reserve the right at any time to modify or discontinue, temporarily or permanently, any part of our Services with or without notice.
-2. Sometimes we change the pricing structure for our products. When we do that, we will give at least 30 days notice and will notify you via the email address on record. We may also post a notice about changes on our websites or the affected Services themselves.
+We will strive to keep this Service running for the foreseeable future. However, sometimes it becomes technically impossible to continue a feature or we redesign a part of our Services because we think it could be better or we decide to close new signups of a product. We reserve the right at any time to modify or discontinue, temporarily or permanently, any part of our Services with or without notice.
 
 ## Uptime, Security, and Privacy
 
@@ -53,7 +47,7 @@ If you violate any of the terms, we may terminate your account. That’s a broad
 2. We reserve the right to temporarily disable your account if your usage significantly exceeds the average usage of other customers of the Services. Of course, we’ll reach out to the account owner before taking any action except in rare cases where the level of use may negatively impact the performance of the Service for other customers.
 3. We take many measures to protect and secure your data through backups and encryption.
 4. When you use our Services, you entrust us with your data. We take that trust to heart. You agree that Piepworks may process your data as described in our [Privacy Policy](privacy.md#privacy-policy) and for no other purpose.
-5. We use third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run the Services. In other words, we use [DigitalOcean](https://www.digitalocean.com) and [Netlify](https://www.netlify.com) for our hosting and [Paddle](https://paddle.com) for payment processing.
+5. We use third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run the Services. In other words, we use [Fly](https://fly.io) and [DigitalOcean](https://www.digitalocean.com) for our hosting and [Paddle](https://www.paddle.com) for payment processing.
 
 ## Copyright and Content Ownership
 
@@ -79,6 +73,3 @@ We mention liability throughout these Terms but to put it all in one section:
 In other words: choosing to use our Services does mean you are making a bet on us. If the bet does not work out, that’s on you, not us. We do our darnedest to be as safe a bet as possible through careful management of the business; investments in security, infrastructure, and talent; and in general giving a damn. If you choose to use our Services, thank you for betting on us.
 
 If you have a question about any of the Terms of Service, please [contact us][feedback].
-
-
-[feedback]: https://cassettenest.com/feedback/
